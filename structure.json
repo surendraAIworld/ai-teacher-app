@@ -1,0 +1,92 @@
+{
+  "Grade X Artificial Intelligence": {
+    "Unit 1: Revisiting AI Project Cycle & Ethical Frameworks for AI": [
+      "AI Project Cycle",
+      "Introduction to AI Domains",
+      "Ethical Frameworks of AI"
+    ],
+    "Unit 2: Advanced Concepts of Modeling in AI": [
+      "Revisiting AI, ML and DL",
+      "Modelling",
+      "Neural Networks"
+    ],
+    "Unit 3: Evaluating Models": [
+      "Importance of Model Evaluation",
+      "Splitting the training set data for Evaluation",
+      "What is Accuracy and Error?",
+      "Evaluation metrics for classification",
+      "Ethical concerns around model evaluation"
+    ],
+    "Unit 4: Statistical Data": [
+      "No code AI for Statistical Data",
+      "Statistical Data: Use Case Walk through"
+    ],
+    "Unit 5: Computer Vision": [
+      "Introduction to Computer Vision",
+      "Applications of CV",
+      "Computer Vision Tasks",
+      "No-Code AI tools",
+      "Image Features",
+      "Convolution",
+      "Convolution Neural Network",
+      "Python libraries in Computer Vision"
+    ],
+    "Unit 6: Natural Language Processing": [
+      "Introduction to NLP",
+      "Applications of NLP",
+      "Stages of NLP",
+      "Chatbots",
+      "Text Processing",
+      "NLP: Use Case Walkthrough"
+    ]
+  },
+  "Grade X Python Programming": {
+    "Chapter 1: Algorithms and Flowcharts": [
+      "Recap",
+      "Introduction",
+      "What is an Algorithm?",
+      "What is a Flowchart?",
+      "How to Use Flowcharts to Represent Algorithms"
+    ],
+    "Chapter 2: Introduction to Python": [
+      "What is a program?",
+      "Why Python for AI?",
+      "Applications of Python",
+      "Getting started with Python",
+      "Python IDLE installation",
+      "Python Statement and Comments",
+      "Variables and Datatypes",
+      "Python Operators I",
+      "Python Input and Output",
+      "Python Operators II"
+    ],
+    "Chapter 3: Introduction to tools for AI": [
+      "Introduction to Anaconda",
+      "Jupyter Notebook",
+      "Notebook Interface - Explained"
+    ],
+    "Chapter 4: More About Lists and Tuples": [
+      "Introduction to Lists",
+      "Accessing elements",
+      "Modifying Lists",
+      "List Methods",
+      "Introduction to Tuples",
+      "Tuple Operations"
+    ],
+    "Chapter 5: Flow of Control and Conditions": [
+      "If Statement",
+      "if...else",
+      "if...elif...else",
+      "Nested if",
+      "For Loop",
+      "While Loop"
+    ],
+    "Chapter 6: Introduction to Packages": [
+      "What is a Package?",
+      "Package Installation",
+      "Working with a package",
+      "What is NumPy?",
+      "Exploring NumPy"
+    ]
+  }
+}
