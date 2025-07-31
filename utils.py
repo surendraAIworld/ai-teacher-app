@@ -11,13 +11,11 @@ def send_to_arduino(value, port='COM3', baudrate=9600):
         print(f"[SERIAL ERROR] Could not send to {port}: {e}")
 
 import cohere
-import pygame
 import os
 import tempfile
 from gtts import gTTS
 import speech_recognition as sr
 
-pygame.mixer.init()
 
 COHERE_API_KEY = "Ka3rd6ux3Anu6SAVta3BeVyDi0YDbjSlqrs8LrPj"
 co = cohere.Client(COHERE_API_KEY)
