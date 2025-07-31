@@ -5,7 +5,6 @@ import threading
 import streamlit as st
 import difflib
 import time
-import pygame
 from utils import generate_explanation, generate_answer, create_audio_file, play_audio, pause_speech, resume_speech, stop_speech, listen_and_transcribe, play_speech, send_to_arduino
 
 pygame.mixer.init()
