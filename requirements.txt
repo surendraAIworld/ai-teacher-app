@@ -1,7 +1,6 @@
 streamlit
 speechrecognition
 gtts
-pygame
 cohere
 pydub
 streamlit-lottie
