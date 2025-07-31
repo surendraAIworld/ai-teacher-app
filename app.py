@@ -7,7 +7,6 @@ import difflib
 import time
 from utils import generate_explanation, generate_answer, create_audio_file, play_audio, pause_speech, resume_speech, stop_speech, listen_and_transcribe, play_speech, send_to_arduino
 
-pygame.mixer.init()
 
 def is_related(question, topic, threshold=0.05):
     import re
